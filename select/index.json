@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "幸せのシャナナ",
+  "base_artist": "BRADIO",
+  "createdAt": "2026-02-07T15:50:47.539202Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "幸せのシャナナ",
+      "artist": "BRADIO",
+      "has_synced": true,
+      "path": "select/01_幸せのシャナナ_BRADIO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "幸せのシャナナ",
+      "artist": "BRADIO",
+      "has_synced": false,
+      "path": "select/02_幸せのシャナナ_BRADIO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "幸せのシャナナ",
+      "artist": "BRADIO",
+      "has_synced": false,
+      "path": "select/pl_01_幸せのシャナナ_BRADIO.txt"
+    }
+  ]
+}
